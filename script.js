@@ -1,4 +1,4 @@
-console.log('hii');
+console.log("hello js");
 
 function code(){
 var a=2;
